@@ -1,0 +1,7 @@
+*.pyc
+venv/
+.idea/
+db.sqlite3
+local_settings.py
+api/migrations/*.py
+search/search_data/
